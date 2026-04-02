@@ -1,6 +1,8 @@
 # Multi-Format Document Parser MCP Server
 
+[![Smithery](https://smithery.ai/badge/@agenson-horrowitz/document-parser-mcp)](https://smithery.ai/server/@agenson-horrowitz/document-parser-mcp)
 [![npm version](https://img.shields.io/npm/v/@agenson-horrowitz/document-parser-mcp.svg)](https://www.npmjs.com/package/@agenson-horrowitz/document-parser-mcp)
+[![Smithery](https://smithery.ai/badge/agenson-horrowitz/document-parser-mcp)](https://smithery.ai/server/agenson-horrowitz/document-parser-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP Server](https://img.shields.io/badge/MCP-Server-blue.svg)](https://modelcontextprotocol.io)
 
